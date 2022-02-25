@@ -1,0 +1,9 @@
+2022-02-25 21:53:20,751 INFO Process started
+2022-02-25 21:53:20,752 INFO process_data_to_properformat method started
+2022-02-25 21:53:23,224 INFO Process ended
+2022-02-25 22:34:50,762 INFO Process started
+2022-02-25 22:34:50,762 INFO process_data_to_properformat method started
+2022-02-25 22:34:57,868 INFO {'_id': ObjectId('62190c35bda2c5f5da57c303'), 'Chiral indice n': 3, 'Chiral indice m': 2, 'Initial atomic coordinate u': 31966, 'Initial atomic coordinate v': 608137, 'Initial atomic coordinate w': 111865, "Calculated atomic coordinates u'": 30593, "Calculated atomic coordinates v'": 607015, "Calculated atomic coordinates w'": 112105}
+2022-02-25 22:34:57,947 INFO {'_id': ObjectId('62190c35bda2c5f5da57c301'), 'Chiral indice n': 3, 'Chiral indice m': 2, 'Initial atomic coordinate u': 637257, 'Initial atomic coordinate v': 791312, 'Initial atomic coordinate w': 32917, "Calculated atomic coordinates u'": 636717, "Calculated atomic coordinates v'": 803969, "Calculated atomic coordinates w'": 32929}
+2022-02-25 22:34:57,950 INFO {'_id': ObjectId('62190c35bda2c5f5da57c302'), 'Chiral indice n': 3, 'Chiral indice m': 2, 'Initial atomic coordinate u': 403783, 'Initial atomic coordinate v': 690165, 'Initial atomic coordinate w': 41689, "Calculated atomic coordinates u'": 393472, "Calculated atomic coordinates v'": 694676, "Calculated atomic coordinates w'": 41784}
+2022-02-25 22:34:57,950 INFO Process ended
